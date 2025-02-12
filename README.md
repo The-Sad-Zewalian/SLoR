@@ -1,0 +1,2 @@
+# SLoR
+ Spotify Local Recoder.
